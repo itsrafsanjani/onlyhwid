@@ -6,3 +6,6 @@ Activating via HWID, we stripped down the Microsoft Activation Scripts so its a 
 
 # What do I do?
 Run the bat, and click the HWID Activation button.
+
+# Check out my other projects!
+Office 2021: https://github.com/axel-clover/office2021
